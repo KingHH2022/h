@@ -9,7 +9,7 @@
         body {
             margin: 0;
             padding: 0;
-            background-color: rgb(83, 182, 188);
+            background-image: url(1.jpeg);
         }
         
         .sl {
@@ -25,6 +25,7 @@
     </style>
 </head>
 <body>
+<img src="hh.png" style="width: 200px;height: 200px;">
     <h1>小学加法</h1>
     <div >
         <span><input type="text" id="num1"></span>
